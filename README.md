@@ -1,6 +1,6 @@
 # tweet-archive-dump
 
-A Ruby script for Dump JSON files in [Twitter Archive](https://support.twitter.com/articles/20170160) as simplified YAML files.
+A Ruby script for Dump JSON files in [Twitter Archive](https://support.twitter.com/articles/20170160) as simplified and **pretty** YAML files.
 
 ## Requirement 
 
@@ -22,4 +22,17 @@ A Ruby script for Dump JSON files in [Twitter Archive](https://support.twitter.c
 4. Run this script with Ruby:
     - `ruby tweet_archive_dump.rb`
     - or `rbenv exec ruby tweet_archive_dump.rb` (with rbenv)
+
+## (Option) Archive to Evernote
+
+Main purpose is to put them into Evernote. I recommend that:
+
+1. Dump the archives using this script.
+2. Open `dest` directory in Finder or Explorer, select all and D&D to Evernote app.
+
+## License
+
+MIT License. 
+
+
 
