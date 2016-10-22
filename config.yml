@@ -1,2 +1,2 @@
-tweet_archive_path: "~/GoogleDrive/References/backup/2016-10-21_twitter-archive/data/js/tweets/"
+tweet_archive_path: "~/twitter-archive/data/js/tweets/"
 dest_path: "./dest"
